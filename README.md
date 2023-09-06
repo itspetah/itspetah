@@ -14,7 +14,7 @@
 
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=itspetah&show_icons=true&theme=tokyonight&rank_icon=github)
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itspetah&langs_count=8)
-[![Peter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itspetah)](https://github.com/itspetah/github-readme-stats)
+[![Peter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itspeter)](https://github.com/itspetah/github-readme-stats)
 
 
 <!---
