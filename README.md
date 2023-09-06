@@ -1,4 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/AFdcYElkoNAUE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cute-pokemon-AFdcYElkoNAUE">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/AFdcYElkoNAUE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 <h1 align="center">Hi, I'm Peter Wang</h1>
 <h2 aligh="center"> Data Science intern at Con Edison</h2><img src="https://th.bing.com/th/id/R.16df32acdc513529c1445c7ee9bc596a?rik=DwAAa3FR0HQb8A&pid=ImgRaw&r=0">
 
