@@ -1,12 +1,13 @@
-name: Waka Readme
+name: Waka Readme Stats
 
 on:
   push:
     branches: [master]
+  pull_request:
+      branches: [master]
   schedule:
     # Runs every 4 hours
-    - cron: "0 */4 * * *"
-  workflow_dispatch:
+    - cron: "0 */24 * * *"
 
 jobs:
   update-readme:
@@ -19,7 +20,7 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "False"
+          SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "True"
