@@ -1,21 +1,28 @@
+# Hi I'm Peter 👋
+Apsiring Software Engineer in Brooklyn, currently working with Data Science
+
+## Contact Me
+[![Visitor](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)
+[![Linkedin Badge](https://img.shields.io/badge/-Peter%20Wang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itspeter/)](https://www.linkedin.com/in/itspeter/)
+[![Medium Badge](https://img.shields.io/badge/-@itspetah-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@itspetah)](https://medium.com/@itspetah)
+[![Gmail Badge](https://img.shields.io/badge/-Peter%20Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:itspeterwang3@gmail.com)
+<!--[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
+
+## Tools I use
+
+## Stats
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=itspeter)
+
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnYwb2h6Znl3aTRvaTZ0aGVyM3BseGRtY3V6NWRsaThndjUwaXB4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif" width="1000" height="300">
+<img src="https://github-readme-stats.vercel.app/api?username=itspetah&show_icons=true&theme=tokyonight&rank_icon=github">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspetah&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itspeter>
+    https://github.com/itspetah/github-readme-stats">
 </p>
-
-<h1 align="center">Hi, I'm Peter Wang</h1>
-<h2 align="center">Data Science intern at Con Edison</h2>
-
-<div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/itspeter/" target="_blank"><img src="https://img.shields.io/badge/-Peter%20Wang-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
-</div>
-<div style="display: inline-block;">
-    <img src="https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=itspetah&show_icons=true&theme=tokyonight&rank_icon=github)
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itspetah&langs_count=8)
-[![Peter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itspeter)](https://github.com/itspetah/github-readme-stats)
-
 
 <!---
 itspetah/itspetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
