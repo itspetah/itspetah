@@ -5,22 +5,22 @@ Apsiring Software Engineer in Brooklyn, currently working with Data Science
 [![Visitor](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter%20Wang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itspeter/)](https://www.linkedin.com/in/itspeter/)
 [![Medium Badge](https://img.shields.io/badge/-@itspetah-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@itspetah)](https://medium.com/@itspetah)
-[![Gmail Badge](https://img.shields.io/badge/-Peter%20Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:itspeterwang3@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Peter-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:itspeterwang3@gmail.com)
 <!--[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
 
 ## Tools I use
 
-## Stats
+## WakaTime Stats
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=itspeter)
 
+<!--END_SECTION:waka-->
+
+## Vercel Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itspetah&show_icons=true&theme=tokyonight&rank_icon=github">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspetah&langs_count=8">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itspeter>
-    <https://github.com/itspetah/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=itspetah&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" alt="itspetah" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itspetah&theme=material-palenight&hide_border=true" alt="itspetah" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&" alt="itspetah"/>
 </p>
 
 <!---
