@@ -12,7 +12,6 @@ Apsiring Software Engineer in Brooklyn, currently working with Data Science
 
 ## Stats
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=itspeter)
@@ -21,7 +20,7 @@ Apsiring Software Engineer in Brooklyn, currently working with Data Science
 <img src="https://github-readme-stats.vercel.app/api?username=itspetah&show_icons=true&theme=tokyonight&rank_icon=github">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspetah&langs_count=8">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itspeter>
-    https://github.com/itspetah/github-readme-stats">
+    <https://github.com/itspetah/github-readme-stats">
 </p>
 
 <!---
