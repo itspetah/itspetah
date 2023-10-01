@@ -71,8 +71,6 @@ Java                     1 repo              ██████░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-![Metrics](/github-metrics.svg)
-
 ## Goals
 <!---
 itspetah/itspetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
