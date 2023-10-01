@@ -4,15 +4,13 @@
 [![Medium Badge](https://img.shields.io/badge/-@itspetah-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@itspetah)](https://medium.com/@itspetah)
 [![Gmail Badge](https://img.shields.io/badge/-Peter-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:itspeterwang3@gmail.com)
 <!--[![Website Badge](https://img.shields.io/badge/-website_url-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=website_url)](website_url) -->
+
 ### About Me
 Apsiring Software Engineer based in NYC, currently working with Data Science at Con Edison
 
-
 ## Tools I use
 
-
-## Stats
-### WakaTime
+## Stats: WakaTime
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2043%20mins-blue)
 
@@ -72,18 +70,7 @@ C                        1 repo              ██████░░░░░�
 Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
-
-
-
- Last Updated on 01/10/2023 20:17:20 UTC
 <!--END_SECTION:waka-->
-
-### Vercel
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=itspetah&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="itspetah" />
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=itspetah&theme=material-palenight&hide_border=true" alt="itspetah" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&" alt="itspetah"/>
-</div>
 
 ## Goals
 <!---
