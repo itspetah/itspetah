@@ -1,4 +1,4 @@
-# Hi I'm Peter 👋
+# Hi, I'm Peter 👋
 [![Visitor](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter%20Wang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itspeter/)](https://www.linkedin.com/in/itspeter/)
 [![Medium Badge](https://img.shields.io/badge/-@itspetah-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@itspetah)](https://medium.com/@itspetah)
