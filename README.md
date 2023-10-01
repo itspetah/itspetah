@@ -14,8 +14,6 @@ Apsiring Software Engineer based in NYC, currently working with Data Science at 
 ## Stats
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=itspeter)
-
 <!--END_SECTION:waka-->
 
 ### Vercel
