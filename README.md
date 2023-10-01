@@ -14,6 +14,13 @@ Apsiring Software Engineer based in NYC, currently working with Data Science at 
 ## Stats
 ### WakaTime
 <!--START_SECTION:waka-->
+
+```txt
+YAML       40 mins         █████████████████░░░░░░░░   67.43 %
+C++        19 mins         ████████░░░░░░░░░░░░░░░░░   32.32 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Vercel
