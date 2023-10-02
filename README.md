@@ -9,10 +9,10 @@
 <!--[![Website Badge](https://img.shields.io/badge/-website_url-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=website_url)](website_url) -->
 
 ### About Me
-<p>
-  <h4>Data Science Co-op @ <a href="https://www.coned.com/">Con Edison</a><img src="https://clipground.com/images/con-edison-logo-8.gif" width="20" style="margin-left: 10px;"></h4>
+  <h4>Data Science Co-op @ <a href="https://www.coned.com/">Con Edison</a>
+    <img src="https://clipground.com/images/con-edison-logo-8.gif" width="20" style="margin-left: 10px;">
+  </h4>
   <h4>Aspiring Software Engineer in NYC, currently learning full-stack data science</h4>
-</p>
 
 ## Stats
 <p>Note: Some stats are not included in Wakatime :)</p>
