@@ -6,84 +6,91 @@
 ![GitHub followers](https://img.shields.io/github/followers/itspetah?label=Follow&style=social)
 [![Medium Badge](https://img.shields.io/badge/-@itspetah-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@itspetah)](https://medium.com/@itspetah)
 [![Gmail Badge](https://img.shields.io/badge/-Peter-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:itspeterwang3@gmail.com)](mailto:itspeterwang3@gmail.com)
+
 <!--[![Website Badge](https://img.shields.io/badge/-website_url-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=website_url)](website_url) -->
 
 ### About Me
+
 <p>
   <h4>Data Science Co-op @ <a href="https://www.coned.com/">Con Edison</a><img src="https://clipground.com/images/con-edison-logo-8.gif" width="20" style="margin-left: 10px;"></h4>
   <h4>Aspiring Software Engineer in NYC, currently learning full-stack data science</h4>
 </p>
 
 ## Stats
+
 <p>Note: Some stats are not included in Wakatime :)</p>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2046%20mins-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 5.9 kB Used in GitHub's Storage 
- > 
+> 📦 5.9 kB Used in GitHub's Storage
+>
 > 🏆 42 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 6 Public Repositories
+>
+> 🔑 2 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-🌆 Daytime                65 commits          █████████████████░░░░░░░░   69.15 % 
-🌃 Evening                19 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+🌆 Daytime                65 commits          █████████████████░░░░░░░░   69.15 %
+🌃 Evening                19 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Friday                   15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Sunday                   32 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
+Monday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 %
+Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 %
+Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Friday                   15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 %
+Sunday                   32 commits          █████████░░░░░░░░░░░░░░░░   34.04 %
 ```
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-YAML                     40 mins             █████████████████░░░░░░░░   67.43 % 
-C++                      19 mins             ████████░░░░░░░░░░░░░░░░░   32.32 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+💬 Programming Languages:
+YAML                     40 mins             █████████████████░░░░░░░░   67.43 %
+C++                      19 mins             ████████░░░░░░░░░░░░░░░░░   32.32 %
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 
-🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  1 hr                █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  1 hr                █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in HTML**
 
 ```text
-HTML                     2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-C                        1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     2 repos             ████████████░░░░░░░░░░░░░   50.00 %
+C                        1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 %
+Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 %
 ```
 
- Last Updated on 02/10/2023 00:33:36 UTC
+Last Updated on 02/10/2023 00:33:36 UTC
+
 <!--END_SECTION:waka-->
 
 ## Tools I use
+
 <details><summary>WIP
 </summary>
 </details>
 
-![Metrics](https://metrics.lecoq.io/itspetah?template=classic&skyline=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&skyline=false&skyline.year=2023&skyline.frames=120&skyline.quality=5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&config.timezone=America%2FNew_York)
+![Metrics](<https://metrics.lecoq.io/itspetah?template=classic&skyline=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&skyline=false&skyline.year=2023&skyline.frames=120&skyline.quality=5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&config.timezone=America%2FNew_York>)
 
 <!---
 itspetah/itspetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
