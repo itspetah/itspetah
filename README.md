@@ -86,7 +86,7 @@ Java                     1 repo              ██████░░░░░�
 ## Tools I use
 <details><summary>WIP
 </summary>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </details>
 
 <!---
