@@ -1,5 +1,5 @@
 <h2>Hi, I'm Peter!👋</h2>
-<img align='right' src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="210">
+<img align='right' src="https://i.pinimg.com/564x/9f/0c/50/9f0c50adeeabe2f0868975a79f18a040.jpg" width="400" height="550">
 
 [![Visitor](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter%20Wang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itspeter/)](https://www.linkedin.com/in/itspeter/)
