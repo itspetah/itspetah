@@ -87,10 +87,7 @@ Java                     1 repo              █████░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Tools I use
-<details><summary>WIP
-</summary>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</details>
+
 
 <!---
 itspetah/itspetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
