@@ -19,7 +19,7 @@
 <p>Note: Some stats are not included :)</p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2030%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,13 +60,13 @@ Sunday                   36 commits          ████████░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -81,7 +81,7 @@ Java                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 26/10/2023 00:32:12 UTC
+ Last Updated on 27/10/2023 00:32:20 UTC
 <!--END_SECTION:waka-->
 
 ## Tools I use
