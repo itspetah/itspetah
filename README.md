@@ -1,5 +1,5 @@
 <h2>Hi, I'm Peter!👋</h2>
-<img align='right' src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="210">
+<img align='right' src="https://i.pinimg.com/564x/9f/0c/50/9f0c50adeeabe2f0868975a79f18a040.jpg" width="350" height="450">
 
 [![Visitor](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter%20Wang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itspeter/)](https://www.linkedin.com/in/itspeter/)
@@ -19,13 +19,13 @@
 <p>Note: Some stats are not included :)</p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.9 kB Used in GitHub's Storage 
  > 
-> 🏆 61 Contributions in the Year 2023
+> 🏆 72 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -36,21 +36,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-🌆 Daytime                77 commits          ██████████████████░░░░░░░   70.00 % 
-🌃 Evening                23 commits          █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+🌆 Daytime                86 commits          ██████████████████░░░░░░░   72.27 % 
+🌃 Evening                23 commits          █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Friday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Saturday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Sunday                   36 commits          ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Monday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Tuesday                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Wednesday                17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Friday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Saturday                 23 commits          █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Sunday                   36 commits          ████████░░░░░░░░░░░░░░░░░   30.25 % 
 ```
 
 
@@ -60,44 +60,35 @@ Sunday                   36 commits          ████████░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 11 mins             ███████████████░░░░░░░░░░   58.96 % 
-YAML                     7 mins              ██████████░░░░░░░░░░░░░░░   40.62 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Other                    38 mins             ████████████████████░░░░░   80.03 % 
+C++                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-C                        1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Java                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
 
 
- Last Updated on 07/10/2023 20:37:11 UTC
+ Last Updated on 06/11/2023 00:34:38 UTC
 <!--END_SECTION:waka-->
 
 ## Tools I use
-<details><summary>WIP
-</summary>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</details>
 
-<<<<<<< HEAD
-<!--
-![Metrics](https://metrics.lecoq.io/itspetah?template=classic&skyline=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&skyline=false&skyline.year=2023&skyline.frames=120&skyline.quality=5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&config.timezone=America%2FNew_York)
--->
 
-=======
->>>>>>> 0c960a3dacbb726a5784fd128247b2f96492b3bf
 <!---
 itspetah/itspetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
