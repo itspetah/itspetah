@@ -60,14 +60,13 @@ Sunday                   36 commits          ███████░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      13 mins             █████████████████████████   99.76 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -82,7 +81,7 @@ Java                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 18/11/2023 00:34:25 UTC
+ Last Updated on 22/11/2023 00:36:53 UTC
 <!--END_SECTION:waka-->
 
 ## Tools I use
