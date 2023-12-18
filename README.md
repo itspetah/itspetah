@@ -59,11 +59,9 @@
 
 ----
 
-### Contact Me
-
-----
+### Coding Stats
 <details>
-  <summary><h3>Coding Activity (WakaTime)</h3></summary>
+  <summary>Coding Activity (WakaTime)</summary>
   
   <p>Below is a summary of my recent coding activity. Please note that some coding times might not be included.</p>
   
