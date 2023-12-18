@@ -1,34 +1,35 @@
-<h2>Hi, I'm Peter!👋</h2>
-<img align='right' src="https://i.pinimg.com/564x/9f/0c/50/9f0c50adeeabe2f0868975a79f18a040.jpg" width="350" height="450">
+<div align="center">
+  <h1 align="center">Hi, I'm Peter!👋</h1>
+  <img src="https://i.pinimg.com/564x/9f/0c/50/9f0c50adeeabe2f0868975a79f18a040.jpg" width="350" height="350">
+</p>
+</div>
 
 [![Visitor](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)](https://komarev.com/ghpvc/?username=itspeter&style=flat-square&color=blue)
-[![Linkedin Badge](https://img.shields.io/badge/-Peter%20Wang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itspeter/)](https://www.linkedin.com/in/itspeter/)
-![GitHub followers](https://img.shields.io/github/followers/itspetah?label=Follow&style=social)
-[![Medium Badge](https://img.shields.io/badge/-@itspetah-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@itspetah)](https://medium.com/@itspetah)
-[![Gmail Badge](https://img.shields.io/badge/-Peter-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:itspeterwang3@gmail.com)](mailto:itspeterwang3@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itspeter)](https://www.linkedin.com/in/itspeter)
+<!--[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&logoColor=white&link=https://medium.com/@itspetah)](https://medium.com/@itspetah)-->
 
 <!--[![Website Badge](https://img.shields.io/badge/-website_url-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=website_url)](website_url) -->
+
+
 
 ### About Me
   <h4>Data Science Intern @ <a href="https://www.coned.com/">Con Edison</a>
     <img src="https://clipground.com/images/con-edison-logo-8.gif" width="20" style="margin-left: 10px;">
   </h4>
   <h4>Aspiring Software Engineer in NYC, currently learning full-stack data science</h4>
-<!--
-<details>  
-  <summary><h2>🧰 View Technologies & Tools I've Worked With</h2></summary>
+<h2>Skills in Badges</h2>
   
   ### Programming Languages
   <table>
     <tr>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><b>C++</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><b>Python</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><b>Java</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><b>JavaScript</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><b>TypeScript</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><b>HTML5</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><b>CSS3</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><b>C++</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><b>Java</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><b>Python</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><b>PHP</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/verilog-original.svg" /><b>Verilog</b></td>
+
     </tr>
   </table>
 
@@ -37,10 +38,9 @@
     <tr>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><b>React.js</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><b>TailwindCSS</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap-original.svg" /><b>Bootstrap</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><b>Node.js</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><b>Express.js</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><b>Next.js</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><b>Jest</b></td>   
     </tr>
   </table>
 
@@ -50,11 +50,10 @@
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><b>PostgreSQL</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><b>MySQL</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><b>MongoDB</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /><b>Sequelize</b></td>
     </tr>
   </table>
 
-   ### Tools
+   ### Developer Tools
    <table>
     <tr>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br /><b>Git</b></td>
@@ -68,12 +67,8 @@
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://devicons.railway.app/i/postman.svg" /><b>Postman</b></td>
     </tr>
   </table>
-  
-</details>
+<!--
 
-<details>
-  -->
-  
 ## Stats
 <p>Note: Most stats are not included</p>
 
@@ -137,14 +132,5 @@ C++                      1 repo              ████░░░░░░░�
 C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
-
-
-
-
  Last Updated on 18/12/2023 00:36:35 UTC
 <!--END_SECTION:waka-->
-
-<!---
-itspetah/itspetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
