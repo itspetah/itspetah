@@ -13,7 +13,7 @@
 ----
 
 ### Skills
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
 ![C++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=C%2B%2B&color=36465D&logoColor=AAA&style=flat-square)
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
@@ -31,7 +31,7 @@
 
 
 ![Developer Tools](https://img.shields.io/static/v1?label=&message=Developer%20Tools:&color=111&style=flat-square)
-![Visual Studio Code](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=VS%20Code&color=36465D&logoColor=AAA&style=flat-square)
+![Visual Studio Code](https://img.shields.io/static/v1?logo=Visual-Studio-Code&label=&message=VS%20Code&color=36465D&logoColor=AAA&style=flat-square)
 ![Google Cloud Platform](https://img.shields.io/static/v1?logo=google-cloud&label=&message=GCP&color=36465D&logoColor=AAA&style=flat-square)
 ![Salesforce](https://img.shields.io/static/v1?logo=salesforce&label=&message=Salesforce&color=36465D&logoColor=AAA&style=flat-square)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
