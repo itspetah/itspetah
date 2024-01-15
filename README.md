@@ -6,43 +6,50 @@
 <pre>
   🏫 BS @ CSI • Computer Science
   🌱 Data Science & Analytics Intern @ Con Edison
-  🤖 Software Engineering • Data Science & Data Analytics • Learning Fullstack Web Dev
+  🤖 Software Engineering • Data Science & Data Analytics • Learning Full Stack Web Dev
   🏞️ Anime & Movies • Hiking • Skiing
 </pre>
 
 ----
 
 ### Skills
-![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
-![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
-![C++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=C%2B%2B&color=36465D&logoColor=AAA&style=flat-square)
-![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
-![HTML](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square)
-![CSS](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=36465D&logoColor=AAA&style=flat-square)
+![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=6B4226&style=flat-square)
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=306998&logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
+[![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=cplusplus&logoColor=white&style=flat-square)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-![Frameworks & Libraries](https://img.shields.io/static/v1?label=&message=Frameworks%20%26%20Libraries:&color=111&style=flat-square)
-![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=36465D&logoColor=AAA&style=flat-square)
-![TailwindCSS](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=TailwindCSS&color=36465D&logoColor=AAA&style=flat-square)
-![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=36465D&logoColor=AAA&style=flat-square)
-![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=36465D&logoColor=AAA&style=flat-square)
-![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square)
-![Express.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Express.js&color=36465D&logoColor=AAA&style=flat-square)
-![Node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=36465D&logoColor=AAA&style=flat-square&link=)
+![Frameworks & Libraries](https://img.shields.io/static/v1?label=&message=Frameworks%20%26%20Libraries:&color=6B4226&style=flat-square)
+[![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logoColor=white&style=flat-square)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=11557C&logoColor=white&style=flat-square)](https://matplotlib.org/)
+[![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=white&style=flat-square)](https://numpy.org/)
+[![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3.js&logoColor=white&style=flat-square)](https://d3js.org/)
+[![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=white&style=flat-square)](https://flask.palletsprojects.com/)
+[![Seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=388E3C&logo=python&logoColor=white&style=flat-square)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-learn&color=F7931E&logo=python&logoColor=white&style=flat-square)](https://scikit-learn.org/)
+[![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=563D7C&logoColor=white&style=flat-square)](https://getbootstrap.com/)
+[![TailwindCSS](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=TailwindCSS&color=38B2AC&logoColor=white&style=flat-square)](https://tailwindcss.com/)
+[![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=61DAFB&logoColor=white&style=flat-square)](https://reactjs.org/)
+[![Express.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Express.js&color=000000&logoColor=white&style=flat-square)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=339933&logoColor=white&style=flat-square)](https://nodejs.org/)
 
 
-![Developer Tools](https://img.shields.io/static/v1?label=&message=Developer%20Tools:&color=111&style=flat-square)
-![Visual Studio Code](https://img.shields.io/static/v1?logo=Visual-Studio-Code&label=&message=VS%20Code&color=36465D&logoColor=AAA&style=flat-square)
-![Google Cloud Platform](https://img.shields.io/static/v1?logo=google-cloud&label=&message=GCP&color=36465D&logoColor=AAA&style=flat-square)
-![Salesforce](https://img.shields.io/static/v1?logo=salesforce&label=&message=Salesforce&color=36465D&logoColor=AAA&style=flat-square)
-![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
-![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
-![Tableau](https://img.shields.io/static/v1?logo=tableau&label=&message=Tableau&color=36465D&logoColor=AAA&style=flat-square)
-![Power BI](https://img.shields.io/static/v1?logo=powerbi&label=&message=Power%20BI&color=36465D&logoColor=AAA&style=flat-square)
-![Ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=&message=Ubuntu&color=36465D&logoColor=AAA&style=flat-square)
+![Developer Tools](https://img.shields.io/static/v1?label=&message=Developer%20Tools:&color=6B4226&style=flat-square)
+[![Visual Studio Code](https://img.shields.io/static/v1?logo=Visual-Studio-Code&label=&message=VS%20Code&color=007ACC&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
+[![Google Cloud Platform](https://img.shields.io/static/v1?logo=google-cloud&label=&message=GCP&color=4285F4&logoColor=white&style=flat-square)](https://cloud.google.com/)
+[![Salesforce](https://img.shields.io/static/v1?logo=salesforce&label=&message=Salesforce&color=00A1E0&logoColor=white&style=flat-square)](https://www.salesforce.com/)
+[![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=2496ED&logoColor=white&style=flat-square)](https://www.docker.com/)
+[![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=F05032&logoColor=white&style=flat-square)](https://git-scm.com/)
+[![Tableau](https://img.shields.io/static/v1?logo=tableau&label=&message=Tableau&color=E97627&logoColor=white&style=flat-square)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/static/v1?logo=powerbi&label=&message=Power%20BI&color=F2C811&logoColor=white&style=flat-square)](https://powerbi.microsoft.com/)
+[![Ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=&message=Ubuntu&color=E95420&logoColor=white&style=flat-square)](https://ubuntu.com/)
 
-![Database](https://img.shields.io/static/v1?label=&message=Database:&color=111&style=flat-square)
-![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
-![Microsoft SQL Server](https://img.shields.io/static/v1?logo=microsoftsqlserver&label=&message=SQL%20Server&color=36465D&logoColor=AAA&style=flat-square)
+
+![Database](https://img.shields.io/static/v1?label=&message=Database:&color=6B4226&style=flat-square)
+[![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=336791&logoColor=white&style=flat-square)](https://www.postgresql.org/)
+[![Microsoft SQL Server](https://img.shields.io/static/v1?logo=microsoftsqlserver&label=&message=SQL%20Server&color=CC2927&logoColor=white&style=flat-square)](https://www.microsoft.com/en-us/sql-server)
+[![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=SQLite&color=003B57&logoColor=white&style=flat-square)](https://www.sqlite.org/)
 
 ----
 ### Projects
