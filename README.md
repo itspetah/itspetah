@@ -65,6 +65,10 @@
 </details>
 
 ----
+### RPC Game
+User's Move: <!--USER_MOVE_PLACEHOLDER-->
+Computer's Move: <!--COMPUTER_MOVE_PLACEHOLDER-->
+Result: <!--GAME_RESULT_PLACEHOLDER-->
 
 ### Coding Stats
 <details>
