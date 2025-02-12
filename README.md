@@ -4,10 +4,10 @@
 
 ### About Me
 <pre>
-  🏫 BS @ CSI • Computer Science
-  🌱 Data Science & Analytics Intern @ Con Edison
+  🏫 BS @ CUNY CSI • Computer Science
+  🌱 Software Engineer & Data Analytics Intern @ Con Edison
   🤖 Software Engineering • Data Science & Data Analytics • Learning Full Stack Web Dev
-  🏞️ Anime & Movies • Hiking • Skiing
+  🏞️ Skiing • Hiking • Skiing
 </pre>
 
 ----
