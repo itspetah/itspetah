@@ -52,27 +52,15 @@
 [![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=SQLite&color=003B57&logoColor=white&style=flat-square)](https://www.sqlite.org/)
 
 ----
-### Projects
-
-<details>
-  <summary><strong>NYC Property Management Data Analysis</strong></summary>
-</details>
-<details>
-  <summary><strong>IP: NYC Gas Pipe Corrosion Predictor</strong></summary>
-</details>
-<details>
-  <summary><strong>IP: Open Source Reddit + Quora + Quizlet</strong></summary>
-</details>
-
-----
 ### Coding Stats
 <details>
-  <summary>Coding Activity (WakaTime)</summary>
+  <summary>🧑‍💻</summary>
   
   <p>Below is a summary of my recent coding activity. Please note that some coding times might not be included.</p>
   
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<!--![Profile Views](http://img.shields.io/badge/Profile%20Views-10000000-blue)-->
+![Profile Views](https://komarev.com/ghpvc/?username=itspetah&color=blue)
 
 **🐱 My GitHub Data** 
 
