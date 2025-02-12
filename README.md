@@ -24,27 +24,24 @@
 [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logoColor=white&style=flat-square)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=11557C&logoColor=white&style=flat-square)](https://matplotlib.org/)
 [![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=white&style=flat-square)](https://numpy.org/)
-[![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3.js&logoColor=white&style=flat-square)](https://d3js.org/)
-[![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=white&style=flat-square)](https://flask.palletsprojects.com/)
 [![Seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=388E3C&logo=python&logoColor=white&style=flat-square)](https://seaborn.pydata.org/)
 [![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-learn&color=F7931E&logo=python&logoColor=white&style=flat-square)](https://scikit-learn.org/)
-[![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=563D7C&logoColor=white&style=flat-square)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=TailwindCSS&color=38B2AC&logoColor=white&style=flat-square)](https://tailwindcss.com/)
+[![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=white&style=flat-square)](https://flask.palletsprojects.com/)
 [![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=61DAFB&logoColor=white&style=flat-square)](https://reactjs.org/)
 [![Express.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Express.js&color=000000&logoColor=white&style=flat-square)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=339933&logoColor=white&style=flat-square)](https://nodejs.org/)
-
+[![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=563D7C&logoColor=white&style=flat-square)](https://getbootstrap.com/)
+[![TailwindCSS](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=TailwindCSS&color=38B2AC&logoColor=white&style=flat-square)](https://tailwindcss.com/)
+<!--[![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3.js&logoColor=white&style=flat-square)](https://d3js.org/)-->
 
 ![Developer Tools](https://img.shields.io/static/v1?label=&message=Developer%20Tools:&color=6B4226&style=flat-square)
-[![Visual Studio Code](https://img.shields.io/static/v1?logo=Visual-Studio-Code&label=&message=VS%20Code&color=007ACC&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
 [![Google Cloud Platform](https://img.shields.io/static/v1?logo=google-cloud&label=&message=GCP&color=4285F4&logoColor=white&style=flat-square)](https://cloud.google.com/)
 [![Salesforce](https://img.shields.io/static/v1?logo=salesforce&label=&message=Salesforce&color=00A1E0&logoColor=white&style=flat-square)](https://www.salesforce.com/)
 [![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=2496ED&logoColor=white&style=flat-square)](https://www.docker.com/)
 [![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=F05032&logoColor=white&style=flat-square)](https://git-scm.com/)
 [![Tableau](https://img.shields.io/static/v1?logo=tableau&label=&message=Tableau&color=E97627&logoColor=white&style=flat-square)](https://www.tableau.com/)
 [![Power BI](https://img.shields.io/static/v1?logo=powerbi&label=&message=Power%20BI&color=F2C811&logoColor=white&style=flat-square)](https://powerbi.microsoft.com/)
-[![Ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=&message=Ubuntu&color=E95420&logoColor=white&style=flat-square)](https://ubuntu.com/)
-
+<!--[![Visual Studio Code](https://img.shields.io/static/v1?logo=Visual-Studio-Code&label=&message=VS%20Code&color=007ACC&logoColor=white&style=flat-square)](https://code.visualstudio.com/)-->
 
 ![Database](https://img.shields.io/static/v1?label=&message=Database:&color=6B4226&style=flat-square)
 [![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=336791&logoColor=white&style=flat-square)](https://www.postgresql.org/)
