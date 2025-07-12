@@ -62,8 +62,6 @@
 
 > 📦 12.1 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -97,13 +95,13 @@ Sunday                   77 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +117,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2025 01:03:16 UTC
+ Last Updated on 12/07/2025 01:04:45 UTC
 <!--END_SECTION:waka-->
 </details>
 
