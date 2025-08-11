@@ -97,14 +97,13 @@ Sunday                   77 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   5 mins              ████████████████████████░   96.14 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +119,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2025 01:09:59 UTC
+ Last Updated on 11/08/2025 01:07:13 UTC
 <!--END_SECTION:waka-->
 </details>
 
