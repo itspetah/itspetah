@@ -50,12 +50,7 @@
 [![SQLite](https://img.shields.io/static/v1?logo=sqlite&label=&message=SQLite&color=003B57&logoColor=white&style=flat-square)](https://www.sqlite.org/)
 
 ----
-### Coding Stats
-<details>
-  <summary>🧑‍💻</summary>
-  
-  <p>Below is a summary of my recent coding activity. Please note that some coding times might not be included.</p>
-  
+### Coding Stats    
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -122,5 +117,4 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 04/10/2025 00:52:02 UTC
 <!--END_SECTION:waka-->
-</details>
 
