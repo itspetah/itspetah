@@ -10,9 +10,9 @@
 
 ### About Me
 <pre>
-  🏫 BS @ CUNY CSI • Computer Science
-  🌱 Data Analytics @ NYC TLC
-  🤖 Software Engineering • Full Stack • Data Analytics
+  BS @ CUNY CSI • Computer Science
+  Data Analytics @ NYC TLC
+  Software Engineering • Full Stack • Data Analytics
 </pre>
 
 ----
