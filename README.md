@@ -52,7 +52,7 @@
 ----
 ### Coding Stats    
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -93,13 +93,13 @@ Sunday                   85 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -115,6 +115,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2025 01:01:24 UTC
+ Last Updated on 02/11/2025 01:02:20 UTC
 <!--END_SECTION:waka-->
 
